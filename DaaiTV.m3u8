@@ -3,4 +3,4 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://liveanevia.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1581362921~acl=/hls-p/ingest_6482_*/*~hmac=4a4f3ecfb9278da354d7ef05752b752626f5810f3611fcd31a71310dc688d03e/hls-p/ingest_6482_720p/index.m3u8
